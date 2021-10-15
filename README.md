@@ -15,9 +15,7 @@
 
 <h2> Repository</h2>
 
-Ezy-Parking is a complete parking management system applying smart solutions for short time rental of empty spaces (Parking, Apartment, Office Spaces etc). This website is designed to helps users find safe, affordable and low cost parking to get rest easy while on a hustle.
-
-This is a most prominent trouble especially in metropolitan and tier-1 cities where vehicles are used at maximum potential in their daily lives. With no space to park their vehicles, it's evitable to have seen or prone to careless parking on roads or unauthorized places which disrupts the smooth flow of passages for society.
+TollRoll
 
 
 <h2> Features</h2>
@@ -35,7 +33,7 @@ This is a most prominent trouble especially in metropolitan and tier-1 cities wh
  
  <h2> Join Here</h2>
 
- Join us to come up with a real-time parking solution to tackle and make this workflow more efficient towards effortless parking management system.  
+Peep in folks to get hands on with working on a real-time solution to make your toll experience seamless and organized with effective toll plaza management system.
 
 
 <h2> Tech Stacks</h2>
