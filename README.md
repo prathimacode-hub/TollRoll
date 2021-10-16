@@ -20,10 +20,14 @@ TollRoll is a dedicated management system to solve all the hurdles and problems 
 
 <h2> Features</h2>
 
+- it checks for user's complete history through visioning vehicle details and addresses with pending challans.
+- it provides an option to purchase fasttags and do transactions to activate under your profile
+- a user can update the profile and link fasttags for easier journeys
+- If any violations or not updated, it will stop you from moving further until necessary action is taken immediately.
+- many more features yet to be added.
 
- 
- 
- <h2> Join Here</h2>
+
+ <h2> Join Here</h2>
 
 Peep in folks to get hands on with working on a real-time solution to make your toll experience seamless and organized with effective toll plaza management system.
 
