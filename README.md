@@ -15,7 +15,7 @@
 
 <h2> Repository</h2>
 
-TollRoll
+TollRoll is a dedicated management system to solve all the hurdles and problems related to toll plaza for smoother functioning of the overall process and getting acquainted to latest upgradations. With this, user's journey would be more feasible and friendly without any hiccups in drives or outings.
 
 
 <h2> Features</h2>
