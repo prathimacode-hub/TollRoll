@@ -135,7 +135,7 @@ If you liked working on this project, do and share this repository.
 
  Happy Contributing 
 
-<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
+<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my other projects.</sup>* <br>
 </td>
 
 
